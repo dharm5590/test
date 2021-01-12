@@ -1,0 +1,1 @@
+{"additional_info":{"external_channel":{"name":"ShadowFax","order_id":"9238011"}},"new_state":"DISPATCHED","order_id":"23084","prev_state":"","timestamp":"30/11/2017 09:25:17","store_id":"642507","timestamp_unix":0,"message":""}
